@@ -1,0 +1,7 @@
+ctrl + S # save command
+ctrl + z # undo command
+ctrl + a # highlight all
+new-item test. txt # create file in powershell
+
+# steps
+untracked file -- add -- commit -- push
